@@ -1,0 +1,11 @@
+D:\MachineLearning\SharpLearning-master\bin\Debug\netcoreapp2.2\SharpLearning-master.deps.json
+D:\MachineLearning\SharpLearning-master\bin\Debug\netcoreapp2.2\SharpLearning-master.runtimeconfig.json
+D:\MachineLearning\SharpLearning-master\bin\Debug\netcoreapp2.2\SharpLearning-master.runtimeconfig.dev.json
+D:\MachineLearning\SharpLearning-master\bin\Debug\netcoreapp2.2\SharpLearning-master.dll
+D:\MachineLearning\SharpLearning-master\obj\Debug\netcoreapp2.2\SharpLearning-master.csprojAssemblyReference.cache
+D:\MachineLearning\SharpLearning-master\obj\Debug\netcoreapp2.2\SharpLearning-master.csproj.CoreCompileInputs.cache
+D:\MachineLearning\SharpLearning-master\obj\Debug\netcoreapp2.2\SharpLearning-master.AssemblyInfoInputs.cache
+D:\MachineLearning\SharpLearning-master\obj\Debug\netcoreapp2.2\SharpLearning-master.AssemblyInfo.cs
+D:\MachineLearning\SharpLearning-master\bin\Debug\netcoreapp2.2\SharpLearning-master.pdb
+D:\MachineLearning\SharpLearning-master\obj\Debug\netcoreapp2.2\SharpLearning-master.dll
+D:\MachineLearning\SharpLearning-master\obj\Debug\netcoreapp2.2\SharpLearning-master.pdb

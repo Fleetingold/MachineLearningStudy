@@ -1,0 +1,366 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "78ac41ac0757ba086fd4b2dfa75e16dffcee591e"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "SharpLearning-master/1.0.0": {
+        "dependencies": {
+          "SharpLearning.AdaBoost": "0.31.7",
+          "SharpLearning.Common.Interfaces": "0.31.7",
+          "SharpLearning.Containers": "0.31.7",
+          "SharpLearning.CrossValidation": "0.31.7",
+          "SharpLearning.DecisionTrees": "0.31.7",
+          "SharpLearning.Ensemble": "0.31.7",
+          "SharpLearning.FeatureTransformations": "0.31.7",
+          "SharpLearning.GradientBoost": "0.31.7",
+          "SharpLearning.InputOutput": "0.31.7",
+          "SharpLearning.Metrics": "0.31.7",
+          "SharpLearning.Neural": "0.31.7",
+          "SharpLearning.Optimization": "0.31.7",
+          "SharpLearning.RandomForest": "0.31.7",
+          "SharpLearning.XGBoost": "0.31.7"
+        },
+        "runtime": {
+          "SharpLearning-master.dll": {}
+        }
+      },
+      "MathNet.Numerics/4.8.1": {
+        "runtime": {
+          "lib/netstandard2.0/MathNet.Numerics.dll": {
+            "assemblyVersion": "4.8.1.0",
+            "fileVersion": "4.8.1.0"
+          }
+        }
+      },
+      "MathNet.Numerics.MKL.Win/2.3.0": {},
+      "PicNet.XGBoost/0.2.1": {
+        "runtime": {
+          "lib/XGBoost.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SharpLearning.AdaBoost/0.31.7": {
+        "dependencies": {
+          "SharpLearning.Common.Interfaces": "0.31.7",
+          "SharpLearning.Containers": "0.31.7",
+          "SharpLearning.DecisionTrees": "0.31.7",
+          "SharpLearning.InputOutput": "0.31.7",
+          "SharpLearning.Metrics": "0.31.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpLearning.AdaBoost.dll": {
+            "assemblyVersion": "0.31.7.0",
+            "fileVersion": "0.31.7.0"
+          }
+        }
+      },
+      "SharpLearning.Common.Interfaces/0.31.7": {
+        "dependencies": {
+          "SharpLearning.Containers": "0.31.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpLearning.Common.Interfaces.dll": {
+            "assemblyVersion": "0.31.7.0",
+            "fileVersion": "0.31.7.0"
+          }
+        }
+      },
+      "SharpLearning.Containers/0.31.7": {
+        "runtime": {
+          "lib/netstandard2.0/SharpLearning.Containers.dll": {
+            "assemblyVersion": "0.31.7.0",
+            "fileVersion": "0.31.7.0"
+          }
+        }
+      },
+      "SharpLearning.CrossValidation/0.31.7": {
+        "dependencies": {
+          "SharpLearning.Common.Interfaces": "0.31.7",
+          "SharpLearning.Containers": "0.31.7",
+          "SharpLearning.InputOutput": "0.31.7",
+          "System.ValueTuple": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpLearning.CrossValidation.dll": {
+            "assemblyVersion": "0.31.7.0",
+            "fileVersion": "0.31.7.0"
+          }
+        }
+      },
+      "SharpLearning.DecisionTrees/0.31.7": {
+        "dependencies": {
+          "SharpLearning.Common.Interfaces": "0.31.7",
+          "SharpLearning.Containers": "0.31.7",
+          "SharpLearning.InputOutput": "0.31.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpLearning.DecisionTrees.dll": {
+            "assemblyVersion": "0.31.7.0",
+            "fileVersion": "0.31.7.0"
+          }
+        }
+      },
+      "SharpLearning.Ensemble/0.31.7": {
+        "dependencies": {
+          "SharpLearning.Common.Interfaces": "0.31.7",
+          "SharpLearning.Containers": "0.31.7",
+          "SharpLearning.CrossValidation": "0.31.7",
+          "SharpLearning.InputOutput": "0.31.7",
+          "SharpLearning.Metrics": "0.31.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpLearning.Ensemble.dll": {
+            "assemblyVersion": "0.31.7.0",
+            "fileVersion": "0.31.7.0"
+          }
+        }
+      },
+      "SharpLearning.FeatureTransformations/0.31.7": {
+        "dependencies": {
+          "SharpLearning.Containers": "0.31.7",
+          "SharpLearning.InputOutput": "0.31.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpLearning.FeatureTransformations.dll": {
+            "assemblyVersion": "0.31.7.0",
+            "fileVersion": "0.31.7.0"
+          }
+        }
+      },
+      "SharpLearning.GradientBoost/0.31.7": {
+        "dependencies": {
+          "SharpLearning.Common.Interfaces": "0.31.7",
+          "SharpLearning.Containers": "0.31.7",
+          "SharpLearning.DecisionTrees": "0.31.7",
+          "SharpLearning.InputOutput": "0.31.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpLearning.GradientBoost.dll": {
+            "assemblyVersion": "0.31.7.0",
+            "fileVersion": "0.31.7.0"
+          }
+        }
+      },
+      "SharpLearning.InputOutput/0.31.7": {
+        "dependencies": {
+          "SharpLearning.Containers": "0.31.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpLearning.InputOutput.dll": {
+            "assemblyVersion": "0.31.7.0",
+            "fileVersion": "0.31.7.0"
+          }
+        }
+      },
+      "SharpLearning.Metrics/0.31.7": {
+        "dependencies": {
+          "SharpLearning.Common.Interfaces": "0.31.7",
+          "SharpLearning.Containers": "0.31.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpLearning.Metrics.dll": {
+            "assemblyVersion": "0.31.7.0",
+            "fileVersion": "0.31.7.0"
+          }
+        }
+      },
+      "SharpLearning.Neural/0.31.7": {
+        "dependencies": {
+          "MathNet.Numerics": "4.8.1",
+          "MathNet.Numerics.MKL.Win": "2.3.0",
+          "SharpLearning.Common.Interfaces": "0.31.7",
+          "SharpLearning.Containers": "0.31.7",
+          "SharpLearning.InputOutput": "0.31.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpLearning.Neural.dll": {
+            "assemblyVersion": "0.31.7.0",
+            "fileVersion": "0.31.7.0"
+          }
+        }
+      },
+      "SharpLearning.Optimization/0.31.7": {
+        "dependencies": {
+          "SharpLearning.Common.Interfaces": "0.31.7",
+          "SharpLearning.Containers": "0.31.7",
+          "SharpLearning.RandomForest": "0.31.7",
+          "System.ValueTuple": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpLearning.Optimization.dll": {
+            "assemblyVersion": "0.31.7.0",
+            "fileVersion": "0.31.7.0"
+          }
+        }
+      },
+      "SharpLearning.RandomForest/0.31.7": {
+        "dependencies": {
+          "SharpLearning.Common.Interfaces": "0.31.7",
+          "SharpLearning.Containers": "0.31.7",
+          "SharpLearning.DecisionTrees": "0.31.7",
+          "SharpLearning.InputOutput": "0.31.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpLearning.RandomForest.dll": {
+            "assemblyVersion": "0.31.7.0",
+            "fileVersion": "0.31.7.0"
+          }
+        }
+      },
+      "SharpLearning.XGBoost/0.31.7": {
+        "dependencies": {
+          "PicNet.XGBoost": "0.2.1",
+          "SharpLearning.Common.Interfaces": "0.31.7",
+          "SharpLearning.Containers": "0.31.7",
+          "SharpLearning.GradientBoost": "0.31.7",
+          "SharpLearning.InputOutput": "0.31.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpLearning.XGBoost.dll": {
+            "assemblyVersion": "0.31.7.0",
+            "fileVersion": "0.31.7.0"
+          }
+        }
+      },
+      "System.ValueTuple/4.5.0": {}
+    }
+  },
+  "libraries": {
+    "SharpLearning-master/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathNet.Numerics/4.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mOw8VectzVoQOvx1J/JikQXKzzqs41lfwgGh/dxi8nSFVT3/h8LzxDuJJTPGXsxjZBkySFHYmaaZRrPDosutPg==",
+      "path": "mathnet.numerics/4.8.1",
+      "hashPath": "mathnet.numerics.4.8.1.nupkg.sha512"
+    },
+    "MathNet.Numerics.MKL.Win/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ngn4btiHbbanMez8ltLZzSRHdOuqKjPcnoIDOI6FEBQTQf5lILOwA9b5dgb2TGQXmTkwsOR2KFfDVAeiR1AjVw==",
+      "path": "mathnet.numerics.mkl.win/2.3.0",
+      "hashPath": "mathnet.numerics.mkl.win.2.3.0.nupkg.sha512"
+    },
+    "PicNet.XGBoost/0.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OTWZ0/4Qhopr90QWvjTwtUI98FgMG0l9jgYgNFTZPBVfUlU/Mlq2dJJ8KK2eqCxRaSd/LRu+jFyTTAPbyBHRqA==",
+      "path": "picnet.xgboost/0.2.1",
+      "hashPath": "picnet.xgboost.0.2.1.nupkg.sha512"
+    },
+    "SharpLearning.AdaBoost/0.31.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Tk9CFbCqgTTBF3GNCnHTLvVc2RFYhHz+2MHNx8ZsmCS2WmvanLz2iCBuDR4iRdNb9Hg0qsYbt6hecd6Ami7QSA==",
+      "path": "sharplearning.adaboost/0.31.7",
+      "hashPath": "sharplearning.adaboost.0.31.7.nupkg.sha512"
+    },
+    "SharpLearning.Common.Interfaces/0.31.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AmvoBqRI+YihNjBY7d4exfQqRtMzwFZ9Ib6sIctTIpvE08IHaYArjE+cFyP7/abZfjLYHcGgk0QACt8JKrt1TQ==",
+      "path": "sharplearning.common.interfaces/0.31.7",
+      "hashPath": "sharplearning.common.interfaces.0.31.7.nupkg.sha512"
+    },
+    "SharpLearning.Containers/0.31.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sM6QTQwjp7+OEx2o48qsEwK/9Uf1tWBlV/xHUjBudiDXHZ98I4JaKvkm2MZd4Nh0UJB/R1K1aJ+V+9GAgMCPSw==",
+      "path": "sharplearning.containers/0.31.7",
+      "hashPath": "sharplearning.containers.0.31.7.nupkg.sha512"
+    },
+    "SharpLearning.CrossValidation/0.31.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-51d8Hi1JvuTLAAE4EnA2cBIp+p4/f4t8oc7/086eN/mTg68UB5reUjVPOfT1sS8B9UaXgyD7A7Ey8efhGMwr1w==",
+      "path": "sharplearning.crossvalidation/0.31.7",
+      "hashPath": "sharplearning.crossvalidation.0.31.7.nupkg.sha512"
+    },
+    "SharpLearning.DecisionTrees/0.31.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-La6bf3xJSD4q1bDlybJkMXY5trqZbLCfXVJw/AD16r+TxBeXZ57jBX5bb5S9cN8KHmdq4ByShI/xgsUMGgvbVQ==",
+      "path": "sharplearning.decisiontrees/0.31.7",
+      "hashPath": "sharplearning.decisiontrees.0.31.7.nupkg.sha512"
+    },
+    "SharpLearning.Ensemble/0.31.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QqmCT6Hr4fHIaMqMxIrejEUBAfmlxzShjp4D16DhRZJXQz5rza7rm6LHYSvjEGeqPSQZVUnhpmYuEI+65fZFqg==",
+      "path": "sharplearning.ensemble/0.31.7",
+      "hashPath": "sharplearning.ensemble.0.31.7.nupkg.sha512"
+    },
+    "SharpLearning.FeatureTransformations/0.31.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0M6D+GVwJQYUu0w9wi8PqiSFI4mbkPgf1Nba5pZDC+E2nJvqyUiqqlZpF3kLAhdvxL3Kd7lLLYAbstEakfhl0Q==",
+      "path": "sharplearning.featuretransformations/0.31.7",
+      "hashPath": "sharplearning.featuretransformations.0.31.7.nupkg.sha512"
+    },
+    "SharpLearning.GradientBoost/0.31.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kZ2sxZxUCKAc6b+0f7jdXb5PwU9Vtfn6PaRkcvKGFKbdJZtq1lXahM2faI5LJHsSQMFDX167W+9o5FHd3QOcFA==",
+      "path": "sharplearning.gradientboost/0.31.7",
+      "hashPath": "sharplearning.gradientboost.0.31.7.nupkg.sha512"
+    },
+    "SharpLearning.InputOutput/0.31.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-N7XEN1Py9l2qCELRJnAxGApfV/zrdDa5Wl6OjgOv4dPhUTk6Bof/pJYNxPWS1Hvth4ON2C2i0iuhs+CZGEdpnw==",
+      "path": "sharplearning.inputoutput/0.31.7",
+      "hashPath": "sharplearning.inputoutput.0.31.7.nupkg.sha512"
+    },
+    "SharpLearning.Metrics/0.31.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QiOplG0JU1t/4JKpJhBAzk7m+Vg9IXcBP4cCBe4WepEJ4fC6scHP05ZcbZztN652t3rZgSPnww960cCdQGL9KQ==",
+      "path": "sharplearning.metrics/0.31.7",
+      "hashPath": "sharplearning.metrics.0.31.7.nupkg.sha512"
+    },
+    "SharpLearning.Neural/0.31.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rYlHBEcF0YJaQeRj42+XxQ8B0nQAOi0N4Epn3pqxaMGRyaLXYMs/T+2ivhHXk6GyssB2INNjZJ0OMYhu2NjXMQ==",
+      "path": "sharplearning.neural/0.31.7",
+      "hashPath": "sharplearning.neural.0.31.7.nupkg.sha512"
+    },
+    "SharpLearning.Optimization/0.31.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lBTlg3yjPd1KLr27wzYcMtUmwuWSWkxjQ80GP5GnHZ8oY3kwLmvUC1ERCO4umUb8HGVtCyua4lh67d9J/SnOtw==",
+      "path": "sharplearning.optimization/0.31.7",
+      "hashPath": "sharplearning.optimization.0.31.7.nupkg.sha512"
+    },
+    "SharpLearning.RandomForest/0.31.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0ETX4Ai2FV6nBiQNeyaooKNfbnblYspALQfHncBKmnMGBTNlaTalIeDz5lJzzOavHCinzkZjBMXMSVjEinpmAA==",
+      "path": "sharplearning.randomforest/0.31.7",
+      "hashPath": "sharplearning.randomforest.0.31.7.nupkg.sha512"
+    },
+    "SharpLearning.XGBoost/0.31.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sxwTA7sexea4AtbRia85jUvU1X2fGH9IG7E9kH9251/kme+vzKXl+jLEywoWR/M/E0siSoBZ5BWBqkDJFEFjew==",
+      "path": "sharplearning.xgboost/0.31.7",
+      "hashPath": "sharplearning.xgboost.0.31.7.nupkg.sha512"
+    },
+    "System.ValueTuple/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xZtSZNEHGa+tGsKuP4sh257vxJ/yemShz4EusmomkynMzuEDDjVaErBNewpzEF6swUgbcrSQAX3ELsEp1zCOwA==",
+      "path": "system.valuetuple/4.5.0",
+      "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
+    }
+  }
+}

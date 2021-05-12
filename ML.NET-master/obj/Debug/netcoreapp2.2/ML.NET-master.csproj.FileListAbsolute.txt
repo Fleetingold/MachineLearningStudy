@@ -1,0 +1,10 @@
+D:\MachineLearning\ML.NET-master\bin\Debug\netcoreapp2.2\ML.NET-master.deps.json
+D:\MachineLearning\ML.NET-master\bin\Debug\netcoreapp2.2\ML.NET-master.runtimeconfig.json
+D:\MachineLearning\ML.NET-master\bin\Debug\netcoreapp2.2\ML.NET-master.runtimeconfig.dev.json
+D:\MachineLearning\ML.NET-master\bin\Debug\netcoreapp2.2\ML.NET-master.dll
+D:\MachineLearning\ML.NET-master\obj\Debug\netcoreapp2.2\ML.NET-master.AssemblyInfoInputs.cache
+D:\MachineLearning\ML.NET-master\obj\Debug\netcoreapp2.2\ML.NET-master.AssemblyInfo.cs
+D:\MachineLearning\ML.NET-master\obj\Debug\netcoreapp2.2\ML.NET-master.csprojAssemblyReference.cache
+D:\MachineLearning\ML.NET-master\bin\Debug\netcoreapp2.2\ML.NET-master.pdb
+D:\MachineLearning\ML.NET-master\obj\Debug\netcoreapp2.2\ML.NET-master.dll
+D:\MachineLearning\ML.NET-master\obj\Debug\netcoreapp2.2\ML.NET-master.pdb

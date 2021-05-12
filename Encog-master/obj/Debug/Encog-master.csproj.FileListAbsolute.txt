@@ -1,0 +1,9 @@
+D:\MachineLearning\Encog-master\bin\Debug\Encog-master.exe.config
+D:\MachineLearning\Encog-master\bin\Debug\Encog-master.exe
+D:\MachineLearning\Encog-master\bin\Debug\Encog-master.pdb
+D:\MachineLearning\Encog-master\bin\Debug\encog-core-cs.dll
+D:\MachineLearning\Encog-master\obj\Debug\Encog-master.csprojAssemblyReference.cache
+D:\MachineLearning\Encog-master\obj\Debug\Encog-master.csproj.CoreCompileInputs.cache
+D:\MachineLearning\Encog-master\obj\Debug\Encog-master.csproj.CopyComplete
+D:\MachineLearning\Encog-master\obj\Debug\Encog-master.exe
+D:\MachineLearning\Encog-master\obj\Debug\Encog-master.pdb

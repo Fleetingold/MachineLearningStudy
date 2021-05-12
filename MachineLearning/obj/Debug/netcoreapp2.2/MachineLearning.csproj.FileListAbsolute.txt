@@ -1,0 +1,11 @@
+D:\MachineLearning\MachineLearning\bin\Debug\netcoreapp2.2\MachineLearning.deps.json
+D:\MachineLearning\MachineLearning\bin\Debug\netcoreapp2.2\MachineLearning.runtimeconfig.json
+D:\MachineLearning\MachineLearning\bin\Debug\netcoreapp2.2\MachineLearning.runtimeconfig.dev.json
+D:\MachineLearning\MachineLearning\bin\Debug\netcoreapp2.2\MachineLearning.dll
+D:\MachineLearning\MachineLearning\bin\Debug\netcoreapp2.2\MachineLearning.pdb
+D:\MachineLearning\MachineLearning\obj\Debug\netcoreapp2.2\MachineLearning.csprojAssemblyReference.cache
+D:\MachineLearning\MachineLearning\obj\Debug\netcoreapp2.2\MachineLearning.csproj.CoreCompileInputs.cache
+D:\MachineLearning\MachineLearning\obj\Debug\netcoreapp2.2\MachineLearning.AssemblyInfoInputs.cache
+D:\MachineLearning\MachineLearning\obj\Debug\netcoreapp2.2\MachineLearning.AssemblyInfo.cs
+D:\MachineLearning\MachineLearning\obj\Debug\netcoreapp2.2\MachineLearning.dll
+D:\MachineLearning\MachineLearning\obj\Debug\netcoreapp2.2\MachineLearning.pdb

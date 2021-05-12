@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>SharpLearning_master</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="WhiteWineTesting\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SharpLearning.AdaBoost" Version="0.31.7" />
+    <PackageReference Include="SharpLearning.Common.Interfaces" Version="0.31.7" />
+    <PackageReference Include="SharpLearning.Containers" Version="0.31.7" />
+    <PackageReference Include="SharpLearning.CrossValidation" Version="0.31.7" />
+    <PackageReference Include="SharpLearning.DecisionTrees" Version="0.31.7" />
+    <PackageReference Include="SharpLearning.Ensemble" Version="0.31.7" />
+    <PackageReference Include="SharpLearning.FeatureTransformations" Version="0.31.7" />
+    <PackageReference Include="SharpLearning.GradientBoost" Version="0.31.7" />
+    <PackageReference Include="SharpLearning.InputOutput" Version="0.31.7" />
+    <PackageReference Include="SharpLearning.Metrics" Version="0.31.7" />
+    <PackageReference Include="SharpLearning.Neural" Version="0.31.7" />
+    <PackageReference Include="SharpLearning.Optimization" Version="0.31.7" />
+    <PackageReference Include="SharpLearning.RandomForest" Version="0.31.7" />
+    <PackageReference Include="SharpLearning.XGBoost" Version="0.31.7" />
+  </ItemGroup>
+
+</Project>

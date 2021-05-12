@@ -1,0 +1,11 @@
+D:\MachineLearning\TensorFlowSharp-master\bin\Debug\netcoreapp2.2\TensorFlowSharp-master.deps.json
+D:\MachineLearning\TensorFlowSharp-master\bin\Debug\netcoreapp2.2\TensorFlowSharp-master.runtimeconfig.json
+D:\MachineLearning\TensorFlowSharp-master\bin\Debug\netcoreapp2.2\TensorFlowSharp-master.runtimeconfig.dev.json
+D:\MachineLearning\TensorFlowSharp-master\bin\Debug\netcoreapp2.2\TensorFlowSharp-master.dll
+D:\MachineLearning\TensorFlowSharp-master\obj\Debug\netcoreapp2.2\TensorFlowSharp-master.csprojAssemblyReference.cache
+D:\MachineLearning\TensorFlowSharp-master\obj\Debug\netcoreapp2.2\TensorFlowSharp-master.csproj.CoreCompileInputs.cache
+D:\MachineLearning\TensorFlowSharp-master\obj\Debug\netcoreapp2.2\TensorFlowSharp-master.AssemblyInfoInputs.cache
+D:\MachineLearning\TensorFlowSharp-master\obj\Debug\netcoreapp2.2\TensorFlowSharp-master.AssemblyInfo.cs
+D:\MachineLearning\TensorFlowSharp-master\bin\Debug\netcoreapp2.2\TensorFlowSharp-master.pdb
+D:\MachineLearning\TensorFlowSharp-master\obj\Debug\netcoreapp2.2\TensorFlowSharp-master.dll
+D:\MachineLearning\TensorFlowSharp-master\obj\Debug\netcoreapp2.2\TensorFlowSharp-master.pdb
